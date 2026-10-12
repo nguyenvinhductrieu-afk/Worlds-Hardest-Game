@@ -1,0 +1,9 @@
+export const GRID_CELL = 40; // pixels per grid unit
+export const PLAYER_SIZE = 28; // player square size in pixels
+export const HAZARD_RADIUS = 18; // hazard (blue ball) radius
+export const COLLECTIBLE_RADIUS = 10;
+export const PLAYER_SPEED = 4.2; // grid units per second
+export const DEATH_RESPAWN_DELAY = 450; // ms
+export const LEVEL_COMPLETE_DELAY = 1200; // ms
+export const TOTAL_LEVELS = 30;
+export const STORAGE_KEY = 'whg_save_v1';
